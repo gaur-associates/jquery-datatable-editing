@@ -1,0 +1,17 @@
+{
+  "name": "jquery_datatable_editable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "datatables.net": "^1.10.19",
+    "datatables.net-dt": "^1.10.19",
+    "jquery": "^3.3.1"
+  }
+}
